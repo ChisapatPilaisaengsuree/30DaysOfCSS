@@ -3,11 +3,11 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color:rgb(150, 54, 73);
+    background-color:pink;
 }
 
 h1 {
-    color:#101E53;
+    color:#4a5fad;
     font-family: 'Pacifico', cursive;
     text-align: center;
     font-size: 70px;
